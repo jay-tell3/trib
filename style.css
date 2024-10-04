@@ -9,7 +9,10 @@ margin: auto;
 display: block;
 }
 h1{ font-family:algerian; 
-    background-position: center;
-    margin: auto;
-    display: block;}
+   }
+.words {
+    margin: 220px;
+   }
+
+
 
