@@ -14,5 +14,19 @@ h1{ font-family:algerian;
     margin: 220px;
    }
 
-
-
+html{
+    background-image: url(covor.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+mark{
+    background-color: purple;
+    color: black;
+}
+#link{
+    font-size: 
+    88px;
+}
+.bib{
+    font-family: times new roman;
+}
